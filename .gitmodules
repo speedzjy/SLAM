@@ -1,0 +1,3 @@
+[submodule "A-LOAM"]
+	path = A-LOAM
+	url = git@github.com:speedzjy/A-LOAM.git
