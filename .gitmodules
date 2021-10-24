@@ -7,3 +7,6 @@
 [submodule "LeGO-LOAM"]
 	path = LeGO-LOAM
 	url = git@github.com:speedzjy/LeGO-LOAM.git
+[submodule "LVI-SAM"]
+	path = LVI-SAM
+	url = git@github.com:speedzjy/LVI-SAM.git
